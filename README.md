@@ -1,5 +1,5 @@
-
 smart-manufacturing-ai-overfill-optimization
+
 Executive Summary
 This repository contains the end-to-end analysis and development of a Machine Learning model designed to mitigate product giveaway (overfilling) in large-scale food manufacturing lines. Through a data-driven approach, the root causes of variability in critical sub-processes (batter depositing, cream injection, and jam injection) were identified, and a predictive system based on Decision Trees was implemented.
 
